@@ -1,1 +1,0 @@
-# rikkei-project-template
